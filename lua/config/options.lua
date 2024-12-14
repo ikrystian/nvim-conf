@@ -3,3 +3,4 @@
 -- Add any additional options here
 local opt = vim.opt
 opt.linespace = 36
+vim.o.formatoptions = "cro"
